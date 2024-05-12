@@ -21,7 +21,6 @@ PorqueEUProgramo is a programming and software development community in Portugal
 
 🟪Lives on Twitch:<br>
 Sunday: 18:00 - 19:30<br>
-Monday: 18:00 - 19:30<br>
 Wednesday: 18:00 - 19:30<br>
 
 
