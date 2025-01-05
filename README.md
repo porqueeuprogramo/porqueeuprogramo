@@ -20,8 +20,8 @@ I am looking for challenges and opportunities that makes me feel on a continous 
 PorqueEUProgramo is a programming and software development community in Portugal.<br> 
 
 🟪Lives on Twitch:<br>
-Sunday: 18:00 - 19:30<br>
-Wednesday: 18:00 - 19:30<br>
+Sunday: 22:00 - 23:30<br>
+Wednesday: 22:00 - 23:30<br>
 
 
 
