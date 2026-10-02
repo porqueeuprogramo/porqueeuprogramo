@@ -1,27 +1,42 @@
 <img src="images/header.png"></img>
 
-👨‍💻 Backend Developer / DevOps
-
-🚀 About Me<br>
-Hello, I'm Tiago, I'm the face of this channel PorqueEUProgramo.
-I consider myself a social person, always waiting for a joke, and in other hand I know how to be professional and responsible, obstinated for my goals.
-
-⚙️ Technical Skills<br>
-Backend: JAVA, MAVEN, SPRING BOOT<br>
-Cloud: AWS (ECS, EKS, LAMBDA, SNS, RDS, S3...)<br>
-CICD: Jenkins, GitHub Actions<br>
-Database: PostgreSQL, DynamoDB<br>
-Agile: Scrum
-
-💼 Professional Opportunities<br>
-I am looking for challenges and opportunities that makes me feel on a continous learning.
-
-📧 About PorqueEUProgramo<br>
-PorqueEUProgramo is a programming and software development community in Portugal.<br> 
-
-🟪Lives on Twitch:<br>
-Sunday: 22:00 - 23:30<br>
-Wednesday: 22:00 - 23:30<br>
+👨‍💻 Backend Developer / DevOps Engineer | Java · AWS · Kafka<br>
+<br>
+🚀 ABOUT ME<br>
+Hello, I’m Tiago, a Backend Developer and DevOps Engineer who enjoys solving problems, collaborating with others, and continuously learning. I’m approachable and always up for a good joke, while bringing professionalism, responsibility, and determination to my work.<br>
+<br>
+At Critical TechWorks, I have contributed to autonomous driving and global electric vehicle charging station projects, working with near-real-time data pipelines, microservices, and AWS infrastructure.<br>
+<br>
+With eight years of experience in teams providing 24/7 on-call support, I bring a strong operational mindset. I have helped improve on-call organization, proactive monitoring, and incident response, and actively identify opportunities to reduce infrastructure costs.<br>
+<br>
+⚙️ TECHNICAL SKILLS<br>
+• Backend: Java, Spring Boot, Maven<br>
+• Data Streaming: Apache Kafka, data processing and enrichment<br>
+• Cloud: AWS — ECS, EKS, Lambda, SNS, RDS, S3<br>
+• Infrastructure as Code: Terraform<br>
+• CI/CD: Jenkins, GitHub Actions<br>
+• Databases: PostgreSQL, DynamoDB<br>
+• Monitoring & Observability: AWS CloudWatch, Prometheus, Grafana<br>
+• Additional Technologies: React, Scala<br>
+• Agile Methodologies: Scrum, Kanban<br>
+• Operations: 24/7 on-call support, incident response, preventive analysis, cost optimization<br>
+<br>
+🛍️ E-COMMERCE & DIGITAL MARKETING<br>
+Alongside my engineering career, I build and manage Shopify stores, combining software development with marketing and business analysis. Over the past six months, I have operated fashion stores targeting Romania, Serbia, and Lithuania.<br>
+<br>
+My experience includes Meta Ads, advertising creative development, conversion optimization, and automated abandoned-cart and checkout recovery flows.<br>
+<br>
+I have also developed a Shopify cart customization plugin, a store-performance analytics tool, and a tool built on top of WinningHunter for product validation and competitor research.<br>
+<br>
+💼 PROFESSIONAL OPPORTUNITIES<br>
+I’m interested in opportunities where I can solve meaningful technical problems, take ownership, and continue growing—particularly in backend development, cloud infrastructure, data streaming, and DevOps.<br>
+<br>
+🌍 PERSONAL PROJECTS<br>
+I’m the founder of PorqueEUProgramo, a project focused on building a Portuguese community where people can share knowledge and discuss programming and software development.<br>
+<br>
+⬛ GitHub: [https://github.com/porqueeuprogramo](https://github.com/porqueeuprogramo)<br>
+🟪 Twitch: [https://www.twitch.tv/porqueeuprogramo](https://www.twitch.tv/porqueeuprogramo)<br>
+🟥 YouTube: [https://www.youtube.com/porqueeuprogramo](https://www.youtube.com/porqueeuprogramo)<br>
 
 
 
