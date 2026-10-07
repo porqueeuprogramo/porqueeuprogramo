@@ -48,7 +48,7 @@ I’m the founder of PorqueEUProgramo, a Portuguese community for sharing progra
 
 <br>
 💼 PROFESSIONAL INTERESTS<br>
-Backend development, cloud infrastructure, data streaming, DevOps and AI-assisted engineering.
+Backend development, cloud infrastructure, data streaming, DevOps and AI-assisted engineering.<br>
 
 ⬛ GitHub: [https://github.com/porqueeuprogramo](https://github.com/porqueeuprogramo)<br>
 🟪 Twitch: [https://www.twitch.tv/porqueeuprogramo](https://www.twitch.tv/porqueeuprogramo)<br>
