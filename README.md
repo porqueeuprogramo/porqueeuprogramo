@@ -2,6 +2,7 @@
 
 👨‍💻 Backend Developer / DevOps Engineer<br>
 Java · AWS · Kubernetes · Kafka · AI<br>
+
 <br>
 🚀 ABOUT ME<br>
 Hello, I’m Tiago, a Backend Developer and DevOps Engineer based in Porto, Portugal.<br>
