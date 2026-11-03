@@ -1,4 +1,4 @@
-<img src="images/header.png"></img>
+<img src="images/header-new.png"></img>
 
 👨‍💻 Backend Developer / DevOps Engineer<br>
 Java · AWS · Kubernetes · Kafka · AI<br>
